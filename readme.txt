@@ -5,5 +5,6 @@ this is only test.
 yocto ...
 
 
-eagle
+Creating a new branch is quick AND simple.
+
 
