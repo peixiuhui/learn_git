@@ -4,3 +4,7 @@ this is only test.
 
 yocto ...
 
+
+Creating a new branch is quick AND simple.
+
+
